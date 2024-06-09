@@ -11,9 +11,10 @@ The backend is written in python and runs on a virtual environment
     python -m venv myenv
 
 This will create a new folder named myenv containing the virtual environment.
+
 2. Activate the Virtual Environment:
 -On Windows:
-    myenv\Scripts\activ-ate
+    myenv\Scripts\activate
 
 -On macOS/Linux:
     source myenv/bin/activate
